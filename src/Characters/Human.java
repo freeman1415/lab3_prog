@@ -7,7 +7,7 @@ public class Human extends Essence{
 
     @Override
     public void breath() {
-        System.out.println(this.getName()+" дышит");
+        System.out.println(this.getName()+" дышит по человечески ");
     }
 
 }
